@@ -7,8 +7,9 @@
 - Visibility: public
 - Language composition: not populated in the current GitHub metadata; treat this as a general project until the stack is confirmed.
 
-## Related repository
+## Related repositories
 - Graphify: https://github.com/kbastani/graphify.git
+- Deep Skill Finder: https://github.com/wheelry/deep-skill-finder.git
 
 ## Instructions for Claude
 - Work within the existing repository structure and conventions.
