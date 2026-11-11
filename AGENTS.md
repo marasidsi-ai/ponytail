@@ -7,6 +7,9 @@
 - Visibility: public
 - Language composition: not populated in the current GitHub metadata; treat this as a general project until the stack is confirmed.
 
+## Related repository
+- Graphify: https://github.com/kbastani/graphify.git
+
 ## Instructions for Claude
 - Work within the existing repository structure and conventions.
 - Prefer small, targeted edits over broad refactors.
